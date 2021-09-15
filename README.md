@@ -9,3 +9,7 @@
 
 #### 3. [주차수요 예측 AI 경진대회](https://dacon.io/competitions/official/235745/overview/description) [[source]](https://github.com/LoveDH/dacon-projects/tree/main/%EC%A3%BC%EC%B0%A8%EC%88%98%EC%9A%94_%EC%98%88%EC%B8%A1)
 2021.06.10 ~ 2021.07.30  정형 | 한국토지주택공사 | 주차수요 | MAE
+
+
+#### 4. [2021 농산물 가격예측 AI 경진대회](https://dacon.io/competitions/official/235801/overview/description) [[source]](https://github.com/LoveDH/dacon-projects/tree/main/%EB%86%8D%EC%82%B0%EB%AC%BC_%EA%B0%80%EA%B2%A9%EC%98%88%EC%B8%A1)
+2021.08.30 ~ 2021.11.12  시계열 | 농넷 | 한국농수산식품유통공사 | 농산물 | NMAE
