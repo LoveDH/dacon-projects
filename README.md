@@ -12,3 +12,6 @@
 
 #### 4. [2021 농산물 가격예측 AI 경진대회](https://dacon.io/competitions/official/235801/overview/description) [[source]](https://github.com/LoveDH/dacon-projects/tree/main/%EB%86%8D%EC%82%B0%EB%AC%BC_%EA%B0%80%EA%B2%A9%EC%98%88%EC%B8%A1)
 2021.08.30 ~ 2021.11.12  시계열 | 농넷 | 한국농수산식품유통공사 | 농산물 | NMAE
+
+#### 5. [AI 기반 회의 녹취록 요약 경진대회](https://dacon.io/competitions/official/235813/overview/description) [[source]](https://github.com/LoveDH/dacon-projects/tree/main/%EB%86%8D%EC%82%B0%EB%AC%BC_%EA%B0%80%EA%B2%A9%EC%98%88%EC%B8%A1)
+2021.09.27 ~ 2021.10.25  LG | 채용 | 자연어 | 생성요약
