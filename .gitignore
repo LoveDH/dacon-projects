@@ -133,3 +133,4 @@ dmypy.json
 */submission/
 .vscode
 *.joblib
+*/logs
