@@ -134,4 +134,3 @@ dmypy.json
 .vscode
 *.joblib
 */logs
-AI_기반_회의_녹취록_요약/kobart_summary/
