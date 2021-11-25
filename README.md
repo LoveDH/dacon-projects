@@ -15,6 +15,3 @@
 
 #### 5. [AI 기반 회의 녹취록 요약 경진대회](https://dacon.io/competitions/official/235813/overview/description) [[source]](https://github.com/LoveDH/dacon-projects/tree/main/AI_%EA%B8%B0%EB%B0%98_%ED%9A%8C%EC%9D%98_%EB%85%B9%EC%B7%A8%EB%A1%9D_%EC%9A%94%EC%95%BD)
 2021.09.27 ~ 2021.10.25  LG | 채용 | 자연어 | 생성요약
-
-#### 6. [주식 종료 가격 예측 경진대회](https://dacon.io/competitions/official/235857/overview/description) [[source]](https://github.com/LoveDH/dacon-projects/tree/main/%EC%A3%BC%EC%8B%9D_%EC%A2%85%EB%A3%8C_%EA%B0%80%EA%B2%A9_%EC%98%88%EC%B8%A1)
-2021.11.10 ~ 2021.11.29 10:00  종가예측 | 전북창조경제혁신센터 | 금융데이터활용 | NMAE
