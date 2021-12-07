@@ -134,3 +134,6 @@ dmypy.json
 .vscode
 *.joblib
 */logs
+
+택배_운송량_예측/tpot_checkpoint
+택배_운송량_예측/best_tpot
