@@ -138,7 +138,3 @@ dmypy.json
 택배_운송량_예측/tpot_checkpoint
 택배_운송량_예측/tpot_best_pareto
 택배_운송량_예측/tpot_memory
-
-잡케어_추천_알고리즘/tpot_checkpoint
-잡케어_추천_알고리즘/tpot_best_pareto
-잡케어_추천_알고리즘/tpot_memory
