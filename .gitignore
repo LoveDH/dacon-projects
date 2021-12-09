@@ -135,6 +135,6 @@ dmypy.json
 *.joblib
 */logs
 
-택배_운송량_예측/tpot_checkpoint
-택배_운송량_예측/tpot_best_pareto
-택배_운송량_예측/tpot_memory
+물류_유통량_예측/tpot_checkpoint
+물류_유통량_예측/tpot_best_pareto
+물류_유통량_예측/tpot_memory
