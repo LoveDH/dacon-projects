@@ -138,3 +138,6 @@ dmypy.json
 물류_유통량_예측/tpot_checkpoint
 물류_유통량_예측/tpot_best_pareto
 물류_유통량_예측/tpot_memory
+
+와인_품질_분류/tpot_checkpoint
+와인_품질_분류/tpot_best_pareto
