@@ -138,3 +138,7 @@ dmypy.json
 */tpot_checkpoint
 */tpot_best_pareto
 */agregressor
+
+*/catboost_info
+
+*.pkl
